@@ -6,7 +6,7 @@
 It is a delivery web application with various mini games and random boxes as the point.\n
 You can earn discount coupons and points that can be applied to payment through event games on the 5th and main pages.
 
-<Language : Java, tool : eclipse> \n
+<Language : Java, tool : eclipse> \
 Version1  -- filewrting, reading 을 통해 회원 서비스, 장바구니 및 구매 내역, 리워드(쿠폰, 포인트) 데이터를 읽고 씁니다. 
           --Java GUI 기반으로 UI를 구현하였습니다.
           
