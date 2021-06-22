@@ -1,9 +1,9 @@
 # Sweet-delivery 스위트 배달
 
-다양한 미니 게임, 랜덤 박스가 포인트인 배달 웹 어플리케이션입니다.
+다양한 미니 게임, 랜덤 박스가 포인트인 배달 웹 어플리케이션입니다.\n
 이벤트 페이지와 메인 페이지의 이벤트 게임들을 통해 결제 시 적용 가능한 할인 쿠폰과 포인트를 획득할 수 있습니다.
 
-It is a delivery web application with various mini games and random boxes as the point.
+It is a delivery web application with various mini games and random boxes as the point.\n
 You can earn discount coupons and points that can be applied to payment through event games on the 5th and main pages.
 
 Language : Java, tool : eclipse \
